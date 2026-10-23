@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# TypeScript compilation output (if you generate JS locally)
+# script.js
+
+# Environment variables / API keys (if you store them in local config files later)
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
